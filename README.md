@@ -1,5 +1,5 @@
 # ⚡ VL Kirsten Camille "Kei" Saguin
-### VP of Training @ DLSU SPRINT | R&D Chairperson @ CATCH2T28
+### VP of Training & Development @ DLSU SPRINT | R&D Chairperson @ CATCH2T28
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=vlksaguin&label=Profile%20views&color=0e75b6&style=flat" alt="vlksaguin" />
@@ -57,7 +57,6 @@ I am a Computer Science student at De La Salle University who thrives at the int
 
 ## 🏗️ Current Focus
 - 📚 **Full-Stack Development:** Mastering modern web architectures and **Node.js** frameworks.
-- 📊 **CATCH2T28 R&D:** Architecting career-readiness dashboards and managing inter-org technical collaborations.
 - 🎨 **UI/UX Exploration:** Implementing responsive designs with **Tailwind CSS**.
 
 ---
