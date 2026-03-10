@@ -1,18 +1,19 @@
-# ⚡ VL Kirsten Camille "Kei" Saguin
-### VP of Training & Development @ DLSU SPRINT | R&D Chairperson @ CATCH2T28
-
-<p align="left">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=vlksaguin&label=Profile%20views&color=0e75b6&style=flat" alt="vlksaguin" />
 </p>
+
+# ⚡ VL Kirsten Camille "Kei" Saguin 
+### VP of Training & Development @ DLSU SPRINT | R&D Chairperson @ CATCH2T28
 
 ---
 
 ## 💫 About Me
-I am a Computer Science student at De La Salle University who thrives at the intersection of **Technical Development** and **Project Management**. Currently, I lead development teams and orchestrate technical workshops, all while exploring various niches in the tech landscape.
+I am a Computer Science student at De La Salle University who thrives between the worlds of **Technical Development**, and **Project Management and Planning**. Currently, I lead a small development team and implement technical/soft-skill workshops, all while exploring various niches in the tech landscape.
 
-- 🔍 **Technical Explorer:** Actively investigating interests in **Mobile Development**, **Data Analytics**, and **GameDev**.
-- 🛠️ **Project Lead:** Managing small-scale dev teams (CATCH2T28) and driving organizational training strategy (SPRINT).
+- 🔍 **Technical Explorer:** Actively investigating interests in **Mobile Development**, **Data Analytics**, and **AI Engineering**.
+- 🛠️ **Project Lead:** Managing small-scale dev teams (CATCH2T28) and driving organizational development through workshops (SPRINT).
 - ⚙️ **Service Oriented:** Dedicated 18 hours/week to IT operations and laboratory maintenance at DLSU ITSO.
+- ♠️ **Jack of Many Trades:** Exploring various technical and non-technical interests and skills such as Public Presentation, and Creative Writing.
 
 ---
 
@@ -57,7 +58,7 @@ I am a Computer Science student at De La Salle University who thrives at the int
 
 ## 🏗️ Current Focus
 - 📚 **Full-Stack Development:** Mastering modern web architectures and **Node.js** frameworks.
-- 🎨 **UI/UX Exploration:** Implementing responsive designs with **Tailwind CSS**.
+- 🎨 **UI/UX Exploration:** Implementing responsive designs with **Tailwind CSS** and **React**.
 
 ---
 
