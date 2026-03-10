@@ -1,10 +1,12 @@
-<p align="right">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=vlksaguin&label=Profile%20views&color=0e75b6&style=flat" alt="vlksaguin" />
 </p>
 
 # ⚡ VL Kirsten Camille "Kei" Saguin 
 ### VP of Training & Development @ DLSU SPRINT | R&D Chairperson @ CATCH2T28
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kei-saguin/)
+[![Gmail](https://img.shields.io/badge/Work-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlkcd.saguin.work@gmail.com)
+[![DLSU](https://img.shields.io/badge/DLSU-006A4E?style=for-the-badge&logo=google-scholar&logoColor=white)](mailto:vl_saguin@dlsu.edu.ph)
 ---
 
 ## 💫 About Me
@@ -73,4 +75,4 @@ I am a Computer Science student at De La Salle University who thrives between th
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kei-saguin/)
 [![Gmail](https://img.shields.io/badge/Work-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlkcd.saguin.work@gmail.com)
-[![DLSU](https://img.shields.io/badge/DLSU-006A4E?style=for-the-badge&logo=google-scholar&logoColor=white)](mailto:vl_saguin@dlsu.edu.ph)
+[![DLSU Mail](https://img.shields.io/badge/DLSU-006A4E?style=for-the-badge&logo=google-scholar&logoColor=white)](mailto:vl_saguin@dlsu.edu.ph)
