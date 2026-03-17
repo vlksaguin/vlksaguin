@@ -10,7 +10,7 @@
 ---
 
 ## 💫 About Me
-I am a Computer Science student at De La Salle University who thrives between the worlds of **Technical Development**, and **Project Management and Planning**. Currently, I lead a small development team and implement technical/soft-skill workshops, all while exploring various niches in the tech landscape.
+I am a Computer Science student at De La Salle University who loves and lives between the worlds of **Technical Development**, and **Project Management and Planning**. Currently, I lead a small development team and implement technical/soft-skill workshops, all while exploring various niches in the tech landscape.
 
 - 🔍 **Technical Explorer:** Actively investigating interests in **Mobile Development**, **Data Analytics**, and **AI Engineering**.
 - 🛠️ **Project Lead:** Managing small-scale dev teams (CATCH2T28) and driving organizational development through workshops (SPRINT).
