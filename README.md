@@ -2,8 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=vlksaguin&label=Profile%20views&color=0e75b6&style=flat" alt="vlksaguin" />
 </p>
 
-# ⚡ VL Kirsten Camille "Kei" Saguin 
-### VP of Training & Development @ DLSU SPRINT | R&D Chairperson @ CATCH2T28
+# ⚡ VL Kirsten Camille "Kei" Saguin
+### VP of Training & Development @ DLSU SPRINT | R&D Chairperson @ CATCH2T28 | Loves to Create and Build
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kei-saguin/)
 [![Gmail](https://img.shields.io/badge/Work-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlkcd.saguin.work@gmail.com)
 [![DLSU](https://img.shields.io/badge/DLSU-006A4E?style=for-the-badge&logo=google-scholar&logoColor=white)](mailto:vl_saguin@dlsu.edu.ph)
@@ -12,11 +13,16 @@
 ## 💫 About Me
 I am a Computer Science student at De La Salle University who loves and lives between the worlds of **Technical Development**, and **Project Management and Planning**. Currently, I lead a small development team and implement technical/soft-skill workshops, all while exploring various niches in the tech landscape.
 
-- 🔍 **Technical Explorer:** Actively investigating interests in **Mobile Development**, **Data Analytics**, and **AI Engineering**.
-- 🛠️ **Project Lead:** Managing small-scale dev teams (CATCH2T28) and driving organizational development through workshops (SPRINT).
-- ⚙️ **Service Oriented:** Dedicated 18 hours/week to IT operations and laboratory maintenance at DLSU ITSO.
-- ♠️ **Jack of Many Trades:** Exploring various technical and non-technical interests and skills such as Public Presentation, and Creative Writing.
+- Actively investigating interests in **Web and Mobile Development**, **Data Analytics**, and **AI Engineering**.
+- Driving organizational development through workshops (SPRINT) and securing strategic sponsorships and industry partnerships for university-wide flagship events like UVMW and Frosh Walk.
+- Exploring various technical and non-technical interests and skills such as Corporate Relations, Public Presentation, Creative Writing and Photography.
 
+---
+
+## 🏗️ Current Focus
+- **Full-Stack Development:** Developing a prototype CMS for a news editorial desk.
+- **System Design and Architecture:** Learning about the reason and plans before the code even begins.
+- **Personal Puzzles:** Conceptualizing a word-puzzle game app for the word game lovers in my life.
 ---
 
 ## 🛠️ Tech Stack
@@ -55,12 +61,6 @@ I am a Computer Science student at De La Salle University who loves and lives be
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-0D3B66?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 🏗️ Current Focus
-- 📚 **Full-Stack Development:** Mastering modern web architectures and **Node.js** frameworks.
-- 🎨 **UI/UX Exploration:** Implementing responsive designs with **Tailwind CSS** and **React**.
 
 ---
 
