@@ -53,18 +53,17 @@
 
 ---
 ## 💫 More About Me
-I am a Computer Science student at De La Salle University who loves and lives between the worlds of **Technical Development**, and **Project Management and Planning**. Currently, I lead a small development team and implement technical/soft-skill workshops, all while exploring various niches in the tech landscape.
-
+I am a Computer Science student at De La Salle University who balances **Technical Development**, and **Project Management and Planning**. Currently, I lead a small development team and implement technical/soft-skill workshops, all while exploring various niches in the tech landscape.
 - Actively investigating interests in **Web and Mobile Development**, **Data Analytics**, and **AI Engineering**.
-- Driving organizational development through workshops (SPRINT) and securing strategic sponsorships and industry partnerships for university-wide flagship events like UVMW and Frosh Walk.
+- Driving organizational development through workshops and securing strategic sponsorships and industry partnerships for university-wide flagship events.
 - Exploring various technical and non-technical interests and skills such as Corporate Relations, Public Presentation, Creative Writing and Photography.
 
 ---
 
 ## 🏗️ Current Focuses
 - **Full-Stack Development:** Developing a prototype CMS for a news editorial desk.
-- **System Design and Architecture:** Learning about the reason and plans before the code even begins.
 - **Personal Puzzles:** Conceptualizing a word-puzzle game app for the word game lovers in my life.
+- **System Design and Architecture:** Learning about the reason and plans before the code even begins.
 ---
 
 ## 📊 Analytics & Stats
