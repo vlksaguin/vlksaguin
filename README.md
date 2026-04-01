@@ -66,8 +66,8 @@ I am a Computer Science student at De La Salle University who loves and lives be
 
 ## 📊 Analytics & Stats
 <p align="center">
-  <img src="https://github-readme-stats-pi-three-56.vercel.app/api?username=vlksaguin&show_icons=true&theme=tokyonight" width="48%" height="195" />
-  <img src="https://github-readme-stats-pi-three-56.vercel.app/api/top-langs/?username=vlksaguin&layout=compact&theme=tokyonight" width="48%" height="195" />
+  <img src="https://github-readme-stats-pi-three-56.vercel.app/api?username=vlksaguin&show_icons=true&theme=tokyonight&count_private=true" width="48%" height="195" />
+  <img src="https://github-readme-stats-pi-three-56.vercel.app/api/top-langs/?username=vlksaguin&layout=compact&theme=tokyonight&count_private=true" width="48%" height="195" />
 </p>
 ---
 
