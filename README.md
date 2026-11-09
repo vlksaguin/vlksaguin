@@ -3,7 +3,7 @@
 </p>
 
 # ⚡ VL Kirsten Camille "Kei" Saguin
-### VP of Training & Development @ DLSU SPRINT | R&D Chairperson @ CATCH2T28 | Loves to Create and Build
+### ML Intern @ GCash | EVP @ DLSU SPRINT | R&D Lead @ GDGoC-DLSU | Loves to Create and Build
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kei-saguin/)
 [![Gmail](https://img.shields.io/badge/Work-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlkcd.saguin.work@gmail.com)
